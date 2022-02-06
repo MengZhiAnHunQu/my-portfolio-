@@ -6,20 +6,20 @@ a {
   text-decoration: none;
 }
 .top-nav {
-  min-height: 80vh;
+  min-height: 70vh;
   /* background: #e98383; */
   background-image: url(../images/pic.jpg);
   background-size: cover;
 }
 #top-info {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 #top {
   margin-top: 20%;
 }
 a.nav-link {
-  color: silver !important;
+  color: rgb(252, 252, 252) !important;
   font-weight: bold;
   letter-spacing: 0.1em;
 }
